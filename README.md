@@ -1,6 +1,6 @@
 <h1>NGO Website</h1>
 
-## 📝 Project Description – NGO Website
+# 📝 Project Description – NGO Website
 As part of my internship application, I have developed and deployed a functional and responsive NGO website hosted here
 Repository: GitHub - NGO-Website
 
