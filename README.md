@@ -23,7 +23,3 @@ Made multiple meaningful commits to track progress.
 
 ## Documentation:
 Added a README.md file to the repository summarizing the project’s purpose and structure for easier understanding.
-
-# 🌍 Goal of the Website:
-
-To provide a digital platform for an NGO that showcases its mission, connects with supporters, and encourages people to contribute or volunteer. The website focuses on clarity, accessibility, and visual appe
